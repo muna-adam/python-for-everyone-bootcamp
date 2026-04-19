@@ -18,17 +18,17 @@ By the end of this section, you will be able to:
 
 | Order | Topic                        | File                              |
 | ----: | ---------------------------- | --------------------------------- |
-|     1 | What is Programming?         | `what-is-programming.md`          |
-|     2 | How Programs Run             | `how-programs-run.md`             |
-|     3 | Pseudocode and Flow Thinking | `pseudocode-and-flow-thinking.md` |
-|     4 | What is Python?              | `what-is-python.md`               |
-|     5 | Installation                 | `installation.md`                 |
-|     6 | Running scripts              | `running-scripts.md`              |
-|     7 | Variables                    | `variables.md`                    |
-|     8 | Data types                   | `data-types.md`                   |
-|     9 | Input and output             | `input-output.md`                 |
-|    10 | Comments                     | `comments.md`                     |
-|    11 | Debugging mindset            | `debugging-mindset.md`            |
+|     1 | What is Programming?         | `01-what-is-programming.md`          |
+|     2 | How Programs Run             | `02-how-programs-run.md`             |
+|     3 | Pseudocode and Flow Thinking | `03-pseudocode-and-flow-thinking.md` |
+|     4 | What is Python?              | `04-what-is-python.md`               |
+|     5 | Installation                 | `05-installation.md`                 |
+|     6 | Running scripts              | `06-running-scripts.md`              |
+|     7 | Variables                    | `07-variables.md`                    |
+|     8 | Data types                   | `08-data-types.md`                   |
+|     9 | Input and output             | `09-input-output.md`                 |
+|    10 | Comments                     | `10-comments.md`                     |
+|    11 | Debugging mindset            | `11-debugging-mindset.md`            |
 
 Work through the lesson files in this order. Each lesson ends with a small practice task. After the section, complete the assignments in `homework.md`.
 
@@ -39,4 +39,4 @@ Work through the lesson files in this order. Each lesson ends with a small pract
 3. Compare your output to the **Expected output** in the lesson.
 4. Do the **Mini practice** before moving on.
 
-When you are ready, open `what-is-programming.md` and begin.
+When you are ready, open `01-what-is-programming.md` and begin.

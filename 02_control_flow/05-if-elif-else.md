@@ -46,4 +46,4 @@ Grade: B
 1. Set `temperature = 30`. If it is **25 or above**, print `"warm"`. Elif it is **15 or above**, print `"ok"`. Else print `"cold"`.
 2. In the lesson’s grade example, change `score` to `76`, run the code, and check that the printed grade matches what you expect.
 
-Continue with `nested-conditions.md`.
+Continue with `06-nested-conditions.md`.

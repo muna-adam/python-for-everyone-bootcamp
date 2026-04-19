@@ -45,4 +45,4 @@ lift off
 1. Set `count = 1`. Use `while` to print `count` from **1** to **5**, then stop.
 2. Set `n = 0`. Use `while` to print `"tick"` exactly **three** times (add `1` to `n` each time until you have printed three lines).
 
-Continue with `break-continue-pass.md`.
+Continue with `09-break-continue-pass.md`.

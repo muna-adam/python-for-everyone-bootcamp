@@ -60,4 +60,4 @@ print(type(active), active)
 1. Create one variable of each type (`int`, `float`, `str`, `bool`). Print each value and its `type(...)` on the same line.
 2. Predict then run: what is `type("42")`? What is `type(42)`? Write one sentence explaining the difference.
 
-Continue with `input-output.md`.
+Continue with `09-input-output.md`.

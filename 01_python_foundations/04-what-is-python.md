@@ -43,4 +43,4 @@ Hello, Python!
 1. Change the string to include your own first name.
 2. Add a second `print(...)` line that prints the word `Python` three times in one string (e.g. `PythonPythonPython` or with spaces—your choice).
 
-When you are done, continue with `installation.md` (environment setup next).
+When you are done, continue with `05-installation.md` (environment setup next).

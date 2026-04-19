@@ -49,4 +49,4 @@ My name is Sam.
 2. Run it from the terminal using `python3 greet.py` (or `python greet.py`).
 3. Change one line, save, and run again—build the habit: **edit → save → run**.
 
-Continue with `variables.md`.
+Continue with `07-variables.md`.

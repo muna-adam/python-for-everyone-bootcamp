@@ -69,4 +69,4 @@ i = 4
 2. Use `for n in range(3):` to print `n` three times (you should see `0`, then `1`, then `2`).
 3. Use `for n in range(1, 6):` to print the numbers **1** through **5**.
 
-Continue with `while-loops.md`.
+Continue with `08-while-loops.md`.

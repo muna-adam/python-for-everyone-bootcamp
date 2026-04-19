@@ -49,4 +49,4 @@ True
 1. Set `score = 88`. Print whether `score` is **greater than or equal to** `80` (print the `True` or `False` result).
 2. Set `name = "Ada"`. Print whether `name` is **equal to** `"Ada"` using `==`.
 
-Continue with `logical-operators.md`.
+Continue with `04-logical-operators.md`.

@@ -56,4 +56,4 @@ True
 1. Set `username = "alex"` and `logged_in = True`. If both are set that way, print `"Dashboard"`; otherwise print `"Go away"`.
 2. Set `day = "Saturday"`. Print `"Weekend!"` if `day` is `"Saturday"` **or** `"Sunday"`, else print `"Weekday"`.
 
-Continue with `if-elif-else.md`.
+Continue with `05-if-elif-else.md`.

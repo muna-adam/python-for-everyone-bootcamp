@@ -44,4 +44,4 @@ Hello, Alex
 2. Name **one** thing a phone app does that involves **input**, **processing**, and **output** (example: messaging—typing is input, sending/processing, notification is output).
 3. Skim the next lesson title: *How Programs Run*—write one question you hope it answers.
 
-When you are done, continue with `how-programs-run.md`.
+When you are done, continue with `02-how-programs-run.md`.

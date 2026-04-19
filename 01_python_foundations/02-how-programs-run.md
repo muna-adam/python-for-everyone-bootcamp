@@ -41,4 +41,4 @@ score is 15
 2. Add a line **between** the two assignments: `print(score)`. Predict **two** lines of output (first line shows `10`, second line still `15` after the addition)—run and confirm.
 3. In one sentence: why does **order of lines** matter here?
 
-Continue with `pseudocode-and-flow-thinking.md`.
+Continue with `03-pseudocode-and-flow-thinking.md`.

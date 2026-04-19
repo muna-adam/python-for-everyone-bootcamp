@@ -59,4 +59,4 @@ after -= 3: 27
 1. Set `balance = 100`. Subtract `25` using `-=`. Add `10` using `+=`. Print `balance` (you should see `85`).
 2. Set `word = "Hi"`. Use `+=` to append `" there"`. Print `word`.
 
-Continue with `comparison-operators.md`.
+Continue with `03-comparison-operators.md`.

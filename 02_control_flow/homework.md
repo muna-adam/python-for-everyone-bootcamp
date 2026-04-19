@@ -1,10 +1,10 @@
 # Homework — Section 2: Control Flow
 
-Complete these tasks after you finish all lessons in this section (through `break-continue-pass.md`). They follow the same ideas as the **Mini practice** steps in each lesson—just a bit longer and using `input()` where it helps.
+Complete these tasks after you finish all lessons in this section (through `09-break-continue-pass.md`). They follow the same ideas as the **Mini practice** steps in each lesson—just a bit longer and using `input()` where it helps.
 
 Submit according to your instructor’s format (files, screenshots, or a short write-up).
 
-Use **`range`** with **`for`** loops the way it is shown in `for-loops.md`.
+Use **`range`** with **`for`** loops the way it is shown in `07-for-loops.md`.
 
 ---
 

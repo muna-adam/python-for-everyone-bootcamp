@@ -45,4 +45,4 @@ Next year you will be 19
 1. Write a program that asks for two **integers** (two `input` calls, two `int(...)` conversions) and prints their sum.
 2. Ask for a **float** price with `float(input(...))` and print the price with a label, e.g. `Price: 9.5`.
 
-Continue with `comments.md`.
+Continue with `10-comments.md`.

@@ -1,6 +1,6 @@
 # Homework — Section 1: Python Foundations
 
-Complete these tasks after you finish all lessons (including `debugging-mindset.md`). Submit according to your instructor’s format (files, screenshots, or a short write-up).
+Complete these tasks after you finish all lessons (including `11-debugging-mindset.md`). Submit according to your instructor’s format (files, screenshots, or a short write-up).
 
 ---
 

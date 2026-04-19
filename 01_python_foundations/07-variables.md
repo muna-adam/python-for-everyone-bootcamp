@@ -41,4 +41,4 @@ Amina
 1. Create variables `city` and `country` with string values you like. Print them on one line separated by a comma.
 2. Create `counter = 0`. Add 1 to `counter` three times using `counter = counter + 1`. Print `counter` at the end (should be `3`).
 
-Continue with `data-types.md`.
+Continue with `08-data-types.md`.

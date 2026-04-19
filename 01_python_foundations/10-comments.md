@@ -37,7 +37,7 @@ Area: 40
 
 ## Mini practice
 
-1. Take a short program you wrote earlier (e.g. from `running-scripts.md`). Add one comment explaining the **purpose** of the script at the top.
+1. Take a short program you wrote earlier (e.g. from `06-running-scripts.md`). Add one comment explaining the **purpose** of the script at the top.
 2. Add an inline comment next to one variable explaining **units** (e.g. `# centimeters` or `# dollars`).
 
-Continue with `debugging-mindset.md`.
+Continue with `11-debugging-mindset.md`.

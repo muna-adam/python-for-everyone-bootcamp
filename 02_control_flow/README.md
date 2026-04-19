@@ -19,15 +19,15 @@ By the end of this section, you will be able to:
 
 | Order | Topic | File |
 |------:|-------|------|
-| 1 | Arithmetic operators | `arithmetic-operators.md` |
-| 2 | Assignment operators | `assignment-operators.md` |
-| 3 | Comparison operators | `comparison-operators.md` |
-| 4 | Logical operators | `logical-operators.md` |
-| 5 | `if`, `elif`, `else` | `if-elif-else.md` |
-| 6 | Nested conditions | `nested-conditions.md` |
-| 7 | `for` loops | `for-loops.md` |
-| 8 | `while` loops | `while-loops.md` |
-| 9 | `break`, `continue`, `pass` | `break-continue-pass.md` |
+| 1 | Arithmetic operators | `01-arithmetic-operators.md` |
+| 2 | Assignment operators | `02-assignment-operators.md` |
+| 3 | Comparison operators | `03-comparison-operators.md` |
+| 4 | Logical operators | `04-logical-operators.md` |
+| 5 | `if`, `elif`, `else` | `05-if-elif-else.md` |
+| 6 | Nested conditions | `06-nested-conditions.md` |
+| 7 | `for` loops | `07-for-loops.md` |
+| 8 | `while` loops | `08-while-loops.md` |
+| 9 | `break`, `continue`, `pass` | `09-break-continue-pass.md` |
 
 Work through the lessons in order. Each lesson ends with a small practice task. After the section, complete the assignments in `homework.md`.
 
@@ -38,7 +38,7 @@ Work through the lessons in order. Each lesson ends with a small practice task. 
 3. Compare your output to the **Expected output** in the lesson.
 4. Do the **Mini practice** before moving on.
 
-When you are ready, open `arithmetic-operators.md` and begin.
+When you are ready, open `01-arithmetic-operators.md` and begin.
 
 ## Prerequisites
 

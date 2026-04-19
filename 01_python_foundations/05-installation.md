@@ -62,4 +62,4 @@ Install OK
 1. Run `python3 --version` (or `python --version`) and write down the exact version string.
 2. Open interactive Python and print your name. Confirm you see your name.
 
-Continue with `running-scripts.md`.
+Continue with `06-running-scripts.md`.

@@ -57,4 +57,4 @@ Go Go Go
 2. Print the value of `10 // 3` on one line (see how `//` differs from `/` in the lesson table).
 3. Print `"Hi! "` three times in one expression using `*` on a string.
 
-Continue with `assignment-operators.md`.
+Continue with `02-assignment-operators.md`.
